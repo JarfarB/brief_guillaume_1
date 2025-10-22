@@ -51,3 +51,4 @@ jobs:
         run: |
           semantic-release version --changelog
           semantic-release publish
+      
